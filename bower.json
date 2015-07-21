@@ -1,0 +1,8 @@
+{
+  "name": "js-tech-assignment",
+  "dependencies": {
+    "zepto": "~1.0.0",
+    "rsvp": "~3.0.1"
+  }
+}
+
