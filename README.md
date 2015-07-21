@@ -53,3 +53,9 @@ A few rules:
 * You may add or remove coffeescript files and Jasmin spec files if appropriate.
 
 You don't need to make fancy UI. We will see how you build the logic.
+
+## How to Submit
+
+1. Clone this repo
+2. Implement the required changes
+3. Make ZIP package of the repo and sent it to jobs@jongla.com with the title: "JAVASCRIPT ASSIGNMENT: [YOUR NAME]"
